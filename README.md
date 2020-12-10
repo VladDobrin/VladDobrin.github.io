@@ -2,7 +2,7 @@
 
 By Vlad Dobrin and James Biggins
 
-## View our Project [HERE](https://jabiggins.github.io/PoliticalPartisanshipInCongress)
+## View our Project[HERE](https://vladdobrin.github.io/PoliticalPartisanshipInCongress)
 
 ## Reproducibility
 
@@ -64,3 +64,4 @@ These files contain the entirety of the scraped and cleaned data that will be us
 >* Financial Importance
 >* Social Importance
 >* The future of this project
+
